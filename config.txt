@@ -1,6 +1,6 @@
 token= NTEzODE0Njg4MDU2OTk5OTM3.DtNjaA.Mg7Way8E806VpXcMby3REPXEA7Q
-owner= 311603535466856458
+owner= 532712973467123712
 prefix= 1
-game= 1play -✖ Crew.
+game= 1play -✖ Crew by 89!
 stayinchannel=true
 songinstatus=true 
